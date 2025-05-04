@@ -5,11 +5,6 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
- * 
- * @author Pavel Šeda (154208)
- *
- */
 public class InsertQueries {
 
   public InsertQueries() {}
